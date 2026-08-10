@@ -1,2 +1,1 @@
-# MY-AI-PORTFOLI
-MY RESUME ALL DETAILS
+3index.html
